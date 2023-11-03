@@ -30,7 +30,7 @@ npm i
 npm run db
 ```
 
-5. Now run in command prompt
+5. Now run in terminal
 ```
 ngrok http 3000
 ```
